@@ -190,6 +190,7 @@ p {
 
 .character {
     grid-area: character;
+    
 }
 
 /* at smaller screens this must perhaps be flex */
